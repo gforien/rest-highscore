@@ -1,40 +1,24 @@
-# template-project :computer::satellite::video_game::globe_with_meridians::package::zap:
+# rest-highscore :watch::eye::pushpin:
 
-![](https://img.shields.io/badge/badge-content-blue)
-[![](https://travis-ci.org/gforien/template-repo.svg?branch=master)](https://travis-ci.org/gforien/template-repo)
-![](https://img.shields.io/github/license/gforien/template-repository)
+[![](https://img.shields.io/badge/heroku-open-blue)](https://rest-highscore.herokuapp.com/)
+[![](https://travis-ci.org/gforien/rest-highscore.svg?branch=master)](https://travis-ci.org/gforien/rest-highscore)
+![](https://img.shields.io/github/license/gforien/rest-highscore)
 
 
-#### Here is a simple description of what it does
+#### Build a MERN-stack REST API as quickly as possible and share your score with your friends !
 
-<!--- Here are technologies used
 <p style = text-align:center;>
-    <img  src="https://upload.wikimedia.org/wikipedia/fr/3/38/Guitar_Hero_Logo.png" alt="Guitar Hero" height="145" width="199">
-    <img src="https://www.neonmag.fr/content/uploads/2019/04/color-spotify-logo.jpg" alt="Spotify" height="145" width="214">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Osu_new_logo.png" alt="Osu" height="145" width="145">
+    <img height="400" src="https://hackernoon.com/drafts/ar1wv331n.png" />
 </p>
 
-
-Or more simply, a GIF of the app functionning
-
-![](screenshot.gif)
---->
+- Step 1 : 11 min
+- Step 2 : 22 min
 
 ## Building and launching :construction_worker:
 ```bash
 $ npm install
 $ npm start
 ```
-
-## Features :sparkles:
-- feature 1
-- feature 2
-- feature 3
-
-## Sources :books:
-This project is sampled from :
-- [Link 1](https://wikipedia.com)
-- [Link 2](https://github.com)
 
 ##
 #### [Gabriel FORIEN](https://github.com/gforien)

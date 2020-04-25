@@ -1,0 +1,33 @@
+{
+  "name": "rest-highscore",
+  "version": "0.1.0",
+  "description": "What is your hiscore at the REST-5min challenge ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js",
+    "dev": "./run.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gforien/rest-highscore.git"
+  },
+  "author": "Gabriel FORIEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gforien/rest-highscore/issues"
+  },
+  "homepage": "https://github.com/gforien/rest-highscore#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "expect": "^25.4.0",
+    "express": "^4.17.1",
+    "mocha": "^7.1.1",
+    "mongoose": "^5.9.10",
+    "sinon": "^9.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
