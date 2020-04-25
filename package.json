@@ -4,7 +4,7 @@
   "description": "What is your hiscore at the REST-5min challenge ?",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha --exit",
     "start": "node index.js",
     "dev": "./run.sh"
   },
